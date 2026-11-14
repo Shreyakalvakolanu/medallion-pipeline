@@ -1,0 +1,21 @@
+[
+  {
+    "agent": "sttm_gold",
+    "run_id": "run-g1",
+    "started_at": "2026-10-12T13:55:51.974723+00:00",
+    "input": {
+      "silver_paths": [
+        "C:\\Users\\adityakumishra\\AppData\\Local\\Temp\\pytest-of-adityakumishra\\pytest-0\\test_saves_csv_and_returns_pat2\\silver.parquet"
+      ],
+      "business_intent": "intent"
+    },
+    "plan": "",
+    "tool_calls": [],
+    "reasoning_steps": [],
+    "output": {
+      "sttm_path": ""
+    },
+    "duration_seconds": 0.001,
+    "status": "success"
+  }
+]
